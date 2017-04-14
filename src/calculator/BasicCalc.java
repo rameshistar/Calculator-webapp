@@ -34,6 +34,7 @@ public class BasicCalc
 	public void setC(double c) {
 		this.c = c;
 	}
+	//home...
 	double add(){
 		c=a+b;
 		return (c);
